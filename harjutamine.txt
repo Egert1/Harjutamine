@@ -3,3 +3,4 @@ samat faili mida kõik saavad näha. Git ja Github skill on aeglaselt muutunud t
 kirjutada koodi ja muid töid erinevatel inimestel samal ajal, ilma selle koatamiseta. Programeerijad ja kontori töötajad kasutavad Githubi kõige rohkem. Nende jaoks see on lihtne
 ja mugav kasutada.
 Mina saaksin kasutada Githubi koolis tunnis, et kirjutada maha mida oleme teinud. Tulevikus saaks ma kastuada seda töökohas ka.
+Github on ameerika firma. Seda asutati 8. veebruar 2008.a. Asutajad on Tom Preston-Werner, Chris Wanstrath, P.J. Hyett ja Scott Chacon.
