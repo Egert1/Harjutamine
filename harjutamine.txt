@@ -1,0 +1,5 @@
+Github on veebilehe põhiline platvorm, mida kasutatakse versiooni kontrolliks. Github teeb inimeste töötamise samal projektil lihtsaks. Töötajad saavad koos kirjutada ja muuta
+samat faili mida kõik saavad näha. Git ja Github skill on aeglaselt muutunud töö leidmiseks kohustuslikuks. Github on populaarsemaks muutunud aastate jooksul. Github on aidanud 
+kirjutada koodi ja muid töid erinevatel inimestel samal ajal, ilma selle koatamiseta. Programeerijad ja kontori töötajad kasutavad Githubi kõige rohkem. Nende jaoks see on lihtne
+ja mugav kasutada.
+Mina saaksin kasutada Githubi koolis tunnis, et kirjutada maha mida oleme teinud. Tulevikus saaks ma kastuada seda töökohas ka.
